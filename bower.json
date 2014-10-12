@@ -1,0 +1,24 @@
+{
+  "name": "durandal_example",
+  "version": "0.0.0",
+  "authors": [
+    "dbenoff <dbenoff@camsys.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-ui": "~1.11.1",
+    "jstree": "vakata/jstree#~3.0.4",
+    "bootstrap": "~3.2.0",
+    "jqueryui": "~1.11.1"
+  }
+}
